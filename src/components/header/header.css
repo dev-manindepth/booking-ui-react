@@ -10,7 +10,7 @@
     width: 100%;
     max-width: 1024px;
     margin: 20px 0px 100px 0px;
-    border: 1px solid tomato;
+/*     border: 1px solid tomato; */
 }
 .headerContainer.listMode{
     margin: 20px 0px 0px 0px;
